@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yi-Zhe Song"
-  avatar           : "https://www.surrey.ac.uk/sites/default/files/styles/diamond_shape_250x250/public/2023-10/P1001906.MP4_snapshot_00.00.050.webp?itok=zpkcREVE"
+  avatar           : 
   bio              : "University of Surrey"
-  location         : "Beijing, China"
+  location         : "27 BA 00"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=irZFP_AAAAAJ"
