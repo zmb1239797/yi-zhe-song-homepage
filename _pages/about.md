@@ -1,15 +1,13 @@
 ---
-
 permalink: /
 title: "Yi-Zhe Song"
 excerpt: "Homepage of Prof. Yi-Zhe Song — Professor of Computer Vision and Machine Learning"
-author\_profile: true
-redirect\_from:
-
-* /about/
-* /about.html
-
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
+
 
 {% if site.google\_scholar\_stats\_use\_cdn %}
 {% assign gsDataBaseUrl = "[https://cdn.jsdelivr.net/gh/](https://cdn.jsdelivr.net/gh/)" | append: site.repository | append: "@" %}
