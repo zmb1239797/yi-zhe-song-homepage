@@ -9,6 +9,7 @@
 title                    : "Yi-Zhe Song"
 description              : "Co-Director Surrey Institute for People-Centred AI; Programme Lead of MSc in Artificial Intelligence "
 repository               : "zmb1239797/yi-zhe-song-homepage"
+baseurl                  : "/yi-zhe-song-homepage"
 google_scholar_stats_use_cdn : true
 
 # google analytics
