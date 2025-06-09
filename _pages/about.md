@@ -48,6 +48,7 @@ You can find his Google Scholar profile here: <a href='https://scholar.google.co
 * Best Paper Award, BMVC 2015
 * Senior Member, IEEE
 * Fellow, Higher Education Academy (HEA)
+* full member of the EPSRC review college
 
 # 📖 Educations
 
