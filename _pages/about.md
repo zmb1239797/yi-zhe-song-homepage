@@ -121,6 +121,6 @@ Here are selected top-cited publications by Prof. Yi-Zhe Song:
 
 * Regular speaker at CVPR, ECCV, ICCV, and academic events in UK and Europe
 
-# 💻 Internships & Collaboration
+# 💻 Internships
 
 * Open to research internships, MSc/PhD supervision, and international collaboration opportunities.
